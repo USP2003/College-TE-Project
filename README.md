@@ -34,6 +34,7 @@ TXD to RXD on the ESP32 (e.g., GPIO 16)
 
 **Software Setup**
 git clone https://github.com/USP2003/smart_crop_protection_system_project.git
+
 cd smart_crop_protection_system_project
 
 
